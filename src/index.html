@@ -7,12 +7,19 @@
   <title>Bio-Site</title>
 </head>
 <body>
-  <nav>
-    <h1 class="myName text-center"><a href="#">John R Johnson</a></h1>
-    <div id="navLinks">
-      <button type="button" class="btn btn-info" id="navToBio">Bio</button>
-      <button type="button" class="btn btn-primary" id="navToTechnologies">Technologies</button>
-      <button type="button" class="btn btn-dark" id="navToProjects">Projects</button>
+  <nav class="navbar sticky-top navbar-expand-lg navbar-dark" style="background-color: black;">
+    <a class="navbar-brand" href="#">John R Johnson</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
+      aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
+      <div class="navbar-nav float-right text-right pr-3">
+        <a class="nav-item nav-link" href="#">Home<span class="sr-only">(current)</span></a>
+        <a class="nav-item nav-link" href="#">About Me</a>
+        <a class="nav-item nav-link" href="#">Technologies</a>
+        <a class="nav-item nav-link" href="#">Projects</a>
+      </div>
     </div>
   </nav>
 
@@ -44,6 +51,6 @@
 
   <div class="fullPage d-flex" id="projectsPage"></div>
 
-  <footer class="page-footer"></footer>
+  <div class="footer"></div>
 </body>
 </html>
