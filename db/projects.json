@@ -1,5 +1,6 @@
 {
   "project1": {
+    "id": "project1",
     "title": "Solar System",
     "screenshot": "../images/Solar-System1.png",
     "description": "Use this app to get information about the planets in our solar system. When you hover over the name of the planet an image is shown. If you click on image a full page card shows more info about the planet.",
@@ -9,6 +10,7 @@
     "githubUrl": "https://github.com/John-Ryan-Johnson/Solar-System1"
   },
   "project2": {
+    "id": "project2",
     "title": "Sandwich Maker",
     "screenshot": "../images/Sandwich Maker.png",
     "description": "Use application to select sandwich ingredients and get final cost.",
@@ -18,6 +20,7 @@
     "githubUrl": "https://github.com/John-Ryan-Johnson/Sandwich-Maker"
   },
   "project3": {
+    "id": "project3",
     "title": "Tamagotchi",
     "screenshot": "../images/Tamagotchi.png",
     "description": "Use this application to play with your virtual pet. You can feed, fight, play and sleep just by pressing buttons. Try not to let your energy go to low.",
@@ -27,6 +30,7 @@
     "githubUrl": "https://github.com/John-Ryan-Johnson/Tamagotchi"
   },
   "project4": {
+    "id": "project4",
     "title": "Sorting Hat",
     "screenshot": "../images/Hoggy3.png",
     "description": "Use application to add students to HoggyWarts house and add them to randomly assigned houses.",
