@@ -24,10 +24,28 @@ const displayProjects = () => {
   });
 };
 
+const displayHome = () => {
+  $('#navToHome').on('click', () => {
+    $('#projectsPage').hide();
+    $('#bioPage').hide();
+    $('#technologiesPage').hide();
+  });
+};
+
+const displayBrandToHome = () => {
+  $('#brandToHome').on('click', () => {
+    $('#projectsPage').hide();
+    $('#bioPage').hide();
+    $('#technologiesPage').hide();
+  });
+};
+
 const attachNavbarEvents = () => {
   displayBio();
   displayTechnologies();
   displayProjects();
+  displayHome();
+  displayBrandToHome();
 };
 
 export default { attachNavbarEvents };

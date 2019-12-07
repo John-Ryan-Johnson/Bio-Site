@@ -4,7 +4,7 @@
     "title": "Solar System",
     "screenshot": "../images/Solar-System1.png",
     "description": "Use this app to get information about the planets in our solar system. When you hover over the name of the planet an image is shown. If you click on image a full page card shows more info about the planet.",
-    "technologiesUsed": "HTML5, CSS, JavaScript, SASS, jQuery & Webpack",
+    "technologiesUsed": "HTML5, CSS3, JavaScript, SASS, jQuery & Webpack",
     "available": true,
     "url": "",
     "githubUrl": "https://github.com/John-Ryan-Johnson/Solar-System1"
@@ -14,7 +14,7 @@
     "title": "Sandwich Maker",
     "screenshot": "../images/Sandwich Maker.png",
     "description": "Use application to select sandwich ingredients and get final cost.",
-    "technologiesUsed": "HTML, CSS, Javascript & jQuery",
+    "technologiesUsed": "HTML5, CSS3, Javascript and jQuery",
     "available": true,
     "url": "",
     "githubUrl": "https://github.com/John-Ryan-Johnson/Sandwich-Maker"
@@ -24,7 +24,7 @@
     "title": "Tamagotchi",
     "screenshot": "../images/Tamagotchi.png",
     "description": "Use this application to play with your virtual pet. You can feed, fight, play and sleep just by pressing buttons. Try not to let your energy go to low.",
-    "technologiesUsed": "HTML5, CSS, JavaScript, SASS, jQuery & Webpack",
+    "technologiesUsed": "HTML5, CSS3, JavaScript, SASS, jQuery & Webpack",
     "available": true,
     "url": "",
     "githubUrl": "https://github.com/John-Ryan-Johnson/Tamagotchi"
@@ -34,7 +34,7 @@
     "title": "Sorting Hat",
     "screenshot": "../images/Hoggy3.png",
     "description": "Use application to add students to HoggyWarts house and add them to randomly assigned houses.",
-    "technologiesUsed": "HTML5, CSS, JavaScript, SASS, jQuery & Webpack",
+    "technologiesUsed": "HTML5, CSS3 and JavaScript",
     "available": true,
     "url": "",
     "githubUrl": "https://github.com/John-Ryan-Johnson/Sorting-Hat"
