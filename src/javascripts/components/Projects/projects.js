@@ -3,7 +3,7 @@ import utilities from '../../helpers/utilities';
 import projectsData from '../../helpers/data/projectsData';
 
 const displayAllProjects = () => {
-  let domString = '<h1 class="text-center">Projects</h1>';
+  let domString = '<h2 class="text-center text-white">Projects</h2>';
   domString += '<div id="projects-section" class="d-flex flex-wrap justify-content-center">';
   projectsData.getAllProjects()
     .then((projects) => {
