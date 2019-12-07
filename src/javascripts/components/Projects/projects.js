@@ -24,11 +24,11 @@ const projectCardBuilder = (project) => {
     <div id="${project.id}" class="card projectCard card-body" style=" width: 20em; max-width: 500px; height: 100%; margin: 2em;">
       <img src="${project.screenshot}" class="card-img-top" alt="..." style="width: 100%; height: auto;">
       <br>
-      <h5 class="card-title" id="project">${project.title}</h5>
-      <p class="card-text"><small class="text-muted">${project.technologiesUsed}</small></p>
+      <h5 class="card-title text-center" id="project">${project.title}</h5>
+      <p class="card-text text-center"><small class="text-muted">${project.technologiesUsed}</small></p>
       <p class="card-text">${project.description}</p>
-      <a class="text-center" href="${project.url}">Project Link</a>
-      <a class="text-center" href="${project.githubUrl}">Github</a>
+      <a class="text-center" id="projectLink" href="${project.url}">Project Link</a>
+      <a class="text-center" id="projectGithubLink" href="${project.githubUrl}">Github</a>
     </div>`;
   }
   return domString;
