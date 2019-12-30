@@ -2,8 +2,8 @@
   "project1": {
     "id": "project1",
     "title": "Star Destroyer",
-    "screenshot": "../images/Star Destroyer Weapons.png",
-    "description": "Use this app to get information about the planets in our solar system. When you hover over the name of the planet an image is shown. If you click on image a full page card shows more info about the planet.",
+    "screenshot": "https://user-images.githubusercontent.com/51214463/71315990-4bfa1e80-242e-11ea-8b16-bba6a1f05ccb.PNG",
+    "description": "Use this application to view the Star Destroyer Database and edit its content.",
     "technologiesUsed": "HTML5, CSS3, JavaScript, Jquery, Bootstrap 4, webpack & Firebase",
     "available": true,
     "url": "https://nutshell-star-destroyer.firebaseapp.com/",
@@ -28,5 +28,15 @@
     "available": true,
     "url": "https://sorting-hat-e7627.firebaseapp.com/",
     "githubUrl": "https://github.com/John-Ryan-Johnson/Sorting-Hat"
+  },
+  "project4": {
+    "id": "project4",
+    "title": "Sport Roster",
+    "screenshot": "https://raw.githubusercontent.com/John-Ryan-Johnson/sport-roster/master/Screenshots/Cleveland%20Indians.PNG",
+    "description": "This application has full CRUD on a single collection of players. The user can view players on their team once they are logged in. They can add new players to their team, remove players, and update current players. The form to create and update players will show and hide as it is needed.",
+    "technologiesUsed": "React, Sass, Bootstrap and Firebase",
+    "available": true,
+    "url": "https://sport-roster.firebaseapp.com",
+    "githubUrl": "https://github.com/John-Ryan-Johnson/sport-roster"
   }
 }
